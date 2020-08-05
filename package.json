@@ -1,6 +1,6 @@
 {
-  "name": "tunnel-exec",
-  "version": "0.1.2",
+  "name": "@stordata/tunnel-exec",
+  "version": "0.1.3",
   "description": "Opens an ssh tunnel and then executes some code while it's open",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/mfgea/tunnel-exec.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   },
   "keywords": [
     "ssh",
