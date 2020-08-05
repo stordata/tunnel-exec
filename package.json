@@ -21,6 +21,6 @@
   "author": "Matias Gea <matigea@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "portfinder": "^0.2.1"
+    "portfinder": "1.0.28"
   }
 }
