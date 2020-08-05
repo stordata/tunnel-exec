@@ -1,6 +1,6 @@
 {
   "name": "@stordata/tunnel-exec",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Opens an ssh tunnel and then executes some code while it's open",
   "main": "index.js",
   "scripts": {
